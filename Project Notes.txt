@@ -1,0 +1,2 @@
+First created template.py file for creating complete file directory
+after created and coded in template.py file execute and it will crate folder and file directory
