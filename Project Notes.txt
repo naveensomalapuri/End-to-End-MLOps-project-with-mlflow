@@ -1,2 +1,6 @@
 First created template.py file for creating complete file directory
 after created and coded in template.py file execute and it will crate folder and file directory
+coded in mlproject/__init__.py logging code
+added reusable functions or methods in util/common.py file which are read yaml file and etc.
+ 
+
