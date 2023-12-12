@@ -5,10 +5,14 @@ added reusable functions or methods in util/common.py file which are read yaml f
 learn some research on to learn ensure_annotation and ConfigBox
 added work flow of the project in README.md file
 coded in config/config.yaml file that coded to crate a artifacts folder and taken url from data set url form github repository
-created data_ingestion.ipynb file in research and coded entity
-coded in the data_ingestion.ipynb file it creates artifacts folder and download data.zip and dataset in csv file
-    - created data_ingestion.py and files stage_01_data_ingestion.py added code from data_ingestion.ipynb file
 
+Data Ingestion:
+    created data_ingestion.ipynb file in research and coded entity
+    coded in the data_ingestion.ipynb file it creates artifacts folder and download data.zip and dataset in csv file
+        - created data_ingestion.py and files stage_01_data_ingestion.py added code from data_ingestion.ipynb file
+
+Data Validation:
+    
 
  
 
