@@ -12,7 +12,11 @@ Data Ingestion:
         - created data_ingestion.py and files stage_01_data_ingestion.py added code from data_ingestion.ipynb file
 
 Data Validation:
-    
+    followed steps in the README.md file as the in the data Ingestion
+
+
+Data Transformation:
+    1. update config.yaml
 
  
 
