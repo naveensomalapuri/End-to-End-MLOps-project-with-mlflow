@@ -1,0 +1,15 @@
+artifact_uri: file:///home/naveen/Naveen/Projects/End-to-End-MLOps-project-with-mlflow/mlruns/0/fdc079dfc595447baaea25c64d095cc7/artifacts
+end_time: 1702971679333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdc079dfc595447baaea25c64d095cc7
+run_name: fortunate-fish-182
+run_uuid: fdc079dfc595447baaea25c64d095cc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702971677101
+status: 3
+tags: []
+user_id: naveen

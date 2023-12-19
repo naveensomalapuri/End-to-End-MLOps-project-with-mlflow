@@ -19,6 +19,10 @@ Data Transformation:
     1. update config.yaml
 
 Model:
+    1.
+
+Model Evaluation:
+    1.
     
 
  

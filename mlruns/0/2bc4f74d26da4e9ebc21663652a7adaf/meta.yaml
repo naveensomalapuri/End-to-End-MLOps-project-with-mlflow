@@ -1,0 +1,15 @@
+artifact_uri: file:///home/naveen/Naveen/Projects/End-to-End-MLOps-project-with-mlflow/mlruns/0/2bc4f74d26da4e9ebc21663652a7adaf/artifacts
+end_time: 1702971431490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bc4f74d26da4e9ebc21663652a7adaf
+run_name: fortunate-carp-894
+run_uuid: 2bc4f74d26da4e9ebc21663652a7adaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702971429064
+status: 3
+tags: []
+user_id: naveen

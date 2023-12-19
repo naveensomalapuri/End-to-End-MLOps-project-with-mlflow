@@ -1,0 +1,15 @@
+artifact_uri: file:///home/naveen/Naveen/Projects/End-to-End-MLOps-project-with-mlflow/mlruns/0/38d7b939c71c40ceb3d724d3041063c5/artifacts
+end_time: 1702972433400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38d7b939c71c40ceb3d724d3041063c5
+run_name: victorious-conch-876
+run_uuid: 38d7b939c71c40ceb3d724d3041063c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702972431116
+status: 3
+tags: []
+user_id: naveen

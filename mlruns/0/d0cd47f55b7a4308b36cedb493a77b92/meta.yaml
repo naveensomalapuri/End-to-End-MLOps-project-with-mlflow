@@ -1,0 +1,15 @@
+artifact_uri: file:///home/naveen/Naveen/Projects/End-to-End-MLOps-project-with-mlflow/mlruns/0/d0cd47f55b7a4308b36cedb493a77b92/artifacts
+end_time: 1702972712525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0cd47f55b7a4308b36cedb493a77b92
+run_name: charming-bass-471
+run_uuid: d0cd47f55b7a4308b36cedb493a77b92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702972710178
+status: 3
+tags: []
+user_id: naveen

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/naveen/Naveen/Projects/End-to-End-MLOps-project-with-mlflow/mlruns/0/37e522a628e94e92a381b6186f0e33d1/artifacts
+end_time: 1702971866347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37e522a628e94e92a381b6186f0e33d1
+run_name: intrigued-duck-299
+run_uuid: 37e522a628e94e92a381b6186f0e33d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702971864159
+status: 3
+tags: []
+user_id: naveen
