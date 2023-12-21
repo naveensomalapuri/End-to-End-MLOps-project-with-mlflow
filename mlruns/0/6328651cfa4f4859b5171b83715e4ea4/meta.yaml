@@ -1,0 +1,15 @@
+artifact_uri: file:///home/naveen/Naveen/Projects/End-to-End-MLOps-project-with-mlflow/mlruns/0/6328651cfa4f4859b5171b83715e4ea4/artifacts
+end_time: 1703128437725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6328651cfa4f4859b5171b83715e4ea4
+run_name: languid-lark-460
+run_uuid: 6328651cfa4f4859b5171b83715e4ea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703128435380
+status: 3
+tags: []
+user_id: naveen

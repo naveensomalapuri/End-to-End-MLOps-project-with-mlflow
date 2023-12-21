@@ -1,0 +1,15 @@
+artifact_uri: file:///home/naveen/Naveen/Projects/End-to-End-MLOps-project-with-mlflow/mlruns/0/e4efa0d0d8384ad3bef6809a30f7e010/artifacts
+end_time: 1703064062444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4efa0d0d8384ad3bef6809a30f7e010
+run_name: skillful-flea-717
+run_uuid: e4efa0d0d8384ad3bef6809a30f7e010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703064059164
+status: 3
+tags: []
+user_id: naveen

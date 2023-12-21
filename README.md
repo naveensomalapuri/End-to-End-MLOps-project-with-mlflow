@@ -58,7 +58,6 @@ MLFLOW_TRACKING_URI=https://dagshub.com/somalapurinaveen/End-to-End-MLOps-projec
 MLFLOW_TRACKING_USERNAME=somalapurinaveen \
 MLFLOW_TRACKING_PASSWORD=c170b1e9277f3c97f68a2a650473087caf3645af \
 python script.py
-
 Run this to export as env variables:
 
 ```bash

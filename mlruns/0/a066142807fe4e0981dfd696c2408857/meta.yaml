@@ -1,0 +1,15 @@
+artifact_uri: file:///home/naveen/Naveen/Projects/End-to-End-MLOps-project-with-mlflow/mlruns/0/a066142807fe4e0981dfd696c2408857/artifacts
+end_time: 1703063991317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a066142807fe4e0981dfd696c2408857
+run_name: respected-newt-884
+run_uuid: a066142807fe4e0981dfd696c2408857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703063991291
+status: 4
+tags: []
+user_id: naveen

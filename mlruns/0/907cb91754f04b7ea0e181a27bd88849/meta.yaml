@@ -1,0 +1,15 @@
+artifact_uri: file:///home/naveen/Naveen/Projects/End-to-End-MLOps-project-with-mlflow/mlruns/0/907cb91754f04b7ea0e181a27bd88849/artifacts
+end_time: 1703064073484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 907cb91754f04b7ea0e181a27bd88849
+run_name: capable-sloth-113
+run_uuid: 907cb91754f04b7ea0e181a27bd88849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703064071123
+status: 3
+tags: []
+user_id: naveen

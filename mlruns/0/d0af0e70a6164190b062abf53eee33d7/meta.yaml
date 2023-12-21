@@ -1,0 +1,15 @@
+artifact_uri: file:///home/naveen/Naveen/Projects/End-to-End-MLOps-project-with-mlflow/mlruns/0/d0af0e70a6164190b062abf53eee33d7/artifacts
+end_time: 1703128429045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0af0e70a6164190b062abf53eee33d7
+run_name: casual-wasp-678
+run_uuid: d0af0e70a6164190b062abf53eee33d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703128426087
+status: 3
+tags: []
+user_id: naveen
